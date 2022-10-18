@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "777021554085",
+    "project_id": "musicplayer-da489",
+    "storage_bucket": "musicplayer-da489.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777021554085:android:b916377ce0e97152edbc4c",
+        "android_client_info": {
+          "package_name": "ru.nurdaulet.musicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777021554085-t3m4fm7fi060uq81a52pujhc26dsgd7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOcGNHuYVCNKcVUBbKfhujYOUMYTwaeYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777021554085-t3m4fm7fi060uq81a52pujhc26dsgd7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
