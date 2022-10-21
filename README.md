@@ -9,4 +9,5 @@ Simple music app which uses Firestore database and [Exoplayer](https://github.co
 
 https://user-images.githubusercontent.com/99041432/197193011-876fb6f1-b356-46c9-bcc1-6cb13038e5d6.mp4
 
-
+## Build
+Here you can download last [build version](https://drive.google.com/file/d/18heWTVhvLt_tPNvIn9_MqAEYbCm3Le8w/view?usp=sharing)
